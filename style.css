@@ -1,0 +1,11 @@
+.profile{
+    text-align: center;
+}
+
+img, h5{
+    display: inline-block;
+}
+
+img{
+    border-radius: 20px;
+}
